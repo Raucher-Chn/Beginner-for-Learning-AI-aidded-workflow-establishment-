@@ -1,3 +1,6 @@
+每一块的功能，以及之间关系，见系列课程：https://www.bilibili.com/video/BV1ARzdBhEsU?vd_source=d8ce34d2e0498af8726af364ad756725&spm_id_from=333.788.player.switch&p=4
+
+
 Agent 是什么
 
 Agent（智能体） = 一个“会自己规划并执行任务”的 AI 程序/工作流，而不只是一次性回答问题。
@@ -95,7 +98,7 @@ MCP 是把 agent（或 sub-agent）“接上工具与数据”的标准接口
 
 
 
-每一块的功能，以及之间关系，见系列课程：https://www.bilibili.com/video/BV1ARzdBhEsU?vd_source=d8ce34d2e0498af8726af364ad756725&spm_id_from=333.788.player.switch&p=4
+
 
 
 
